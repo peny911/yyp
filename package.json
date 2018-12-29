@@ -1,0 +1,15 @@
+{
+  "name": "yyp",
+  "version": "1.0.0",
+  "description": "It takes a strong man to save himself,and a great man to save another.",
+  "dependencies": {},
+  "devDependencies": {
+    "jslint": "^0.12.0",
+    "vue": "^2.5.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Payton <14246688@qq.com>",
+  "license": "ISC"
+}
